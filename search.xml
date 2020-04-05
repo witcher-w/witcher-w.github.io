@@ -1,32 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/04/02/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+    <title>一路向北</title>
+    <url>/2020/04/05/%E5%A4%B4%E6%96%87%E5%AD%97D/</url>
+    <content><![CDATA[<p>-昨天把之前青春回忆《头文字D》这部电影又重新看了一次。<br>昨晚，我输给了一辆AE86，他用惯性漂移过弯，他的车很快，我只看到他车上有一个豆腐店的标志。</p>
+<p>-青涩的拓海驾驶的AE86，若无其事的漂移。都是每个少年年轻时的梦想吧，车身上的“藤原豆腐店”可能是最低调的炫耀，哈哈哈哈。</p>
+<p>-比赛前阿木和拓海说的那番话，直到看着走下奔驰的夏树，转身时一路向北响起时，拓海最终还是拨响了高桥凉介的电话：“我想加入车队”</p>
+<p>-夏树和拓海一样，他从小就是同学，同样成长在单亲家庭，因此夏树懂拓海，懂他的脆弱也懂得他的理想。也是她鼓励拓海去寻找自己的世界——赛车。想着夏树最后一次一边哭着说：“我现在只想和拓海在一起”，果然生活总是遗憾多，满心期待的少年终究还是得接受现实.<br><img src="/2020/04/05/%E5%A4%B4%E6%96%87%E5%AD%97D/%E5%A4%B4%E6%96%87%E5%AD%97D.png" alt><a id="more"></a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>第一篇博客测试</title>
-    <url>/2020/04/02/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h1 id="加号"><a href="#加号" class="headerlink" title="加号"></a>加号</h1><ul>
-<li>列表1<br>1.子列表</li>
-</ul>
-<h2 id="DDD"><a href="#DDD" class="headerlink" title="DDD"></a>DDD</h2>]]></content>
+      <categories>
+        <category>电影回忆</category>
+      </categories>
       <tags>
+        <tag>电影</tag>
         <tag>日常</tag>
+        <tag>头文字D</tag>
+        <tag>周杰伦</tag>
       </tags>
   </entry>
 </search>
